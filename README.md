@@ -13,9 +13,9 @@ Sathyabama University, Chennai, India<br>
 Bachelor of Technology | 2021<br><br>
 
 <h2>TECHNICAL SKILLS</h2><br>
-Programming/Scripting Languages: Java, C ,Javascript.<br>
-Operating Systems: Windows, Linux.<br>
-Skills and Tools: SpringBoot ,Spring Framework ,Spring Security ,Hibernate/JPA ,GIT ,Git&Github ,Spring Cloud ,Maven ,RestAPI ,MySQL ,PostgreSQL , AzureDevOps , Amazon Web Services, Docker, Kubernetes. <br><br>
+**Programming/Scripting Languages:** Java, C ,Javascript.<br>
+**Operating Systems:** Windows, Linux.<br>
+**Skills and Tools:** SpringBoot ,Spring Framework ,Spring Security ,Hibernate/JPA ,GIT ,Git&Github ,Spring Cloud ,Maven ,RestAPI ,MySQL ,PostgreSQL , AzureDevOps , Amazon Web Services, Docker, Kubernetes. <br><br>
 
 <h2>Work Experience</h2>
 <h3>Programmer Analyst</h3>
