@@ -28,6 +28,7 @@ Bachelor of Technology | 2021<br><br>
 ->Streamlined processes for software delivery by automating workflows and reducing deployment time, ensuring efficient and smooth project handoffs.<br><br>
 
 <h2>Internship</h2><br>
+<h3>Cognizant Technology Solutions</h3>   (Feb 2021 - June 2021)
 
  Responsible for programming, unit testing, user acceptance testing and implementation in a project involving payments. Modifying and developing existing programs to fix bugs and
  increase efficiency of the applications. Test plan and Test case preparation.<br>
