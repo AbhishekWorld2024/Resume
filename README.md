@@ -17,9 +17,9 @@ Programming/Scripting Languages: Java, C ,Javascript.<br>
 Operating Systems: Windows, Linux.<br>
 Skills and Tools: SpringBoot ,Spring Framework ,Spring Security ,Hibernate/JPA ,GIT ,Git&Github ,Spring Cloud ,Maven ,RestAPI ,MySQL ,PostgreSQL , AzureDevOps , Amazon Web Services, Docker, Kubernetes. <br><br>
 
-<h2>Work Experience</h2><br>
-<h3>Programmer Analyst</h3><br>
-<h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3><br>
+<h2>Work Experience</h2>
+<h3>Programmer Analyst</h3>
+<h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
 
 -> Developed and maintained scalable microservices architectures using Spring Boot and Spring frameworks to ensure robust application performance.<br>
 ->Integrated secure RESTful APIs with Spring Security for seamless authentication and authorization, enhancing data security across applications.<br>
