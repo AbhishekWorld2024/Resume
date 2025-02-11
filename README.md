@@ -55,6 +55,23 @@ andworked under strict timelines for faster feedback.<br>
 scripts, analyzing the results ofscripts, interaction with developers in fixing the errors<br><br>
 
 <h2>Projects</h2><br>
+<h3>Real-time object detection using the ESP32-S3 microcontroller</h3><br>
+ Our project focuses on real-time object detection using the ESP32-S3 microcontroller
+ The goal was to create a lightweight and efficient system that could detect objects within the
+ ESP32-S3's resource constraints.<br>
+->Implementation<br>
+->Dataset and Training:<br>
+"We used a dataset of approximately 2.2k images and labels, splitting it into training, testing, and validation subsets. The YOLOv5n model was trained with parameters like a 320x320 image size, 
+ 50 epochs, and a batch size of 16, achieving precise results."<br>
+->Optimization:<br>
+"We pruned 20% of the model weights to reduce size and fine-tuned it for optimal performance. 
+ The optimized model was converted to TensorFlow Lite format and further quantized to uint8 format to improve compatibility with the ESP32-S3."<br>
+-> Deployment:<br>
+"The uint8 TFLite model was integrated into the ESP32-S3. We wrote source files for camera setup, inference handling, and bounding box visualization. The system streamed live detection
+ results via Wi-Fi, with bounding box coordinates visible on a hosted 
+ web page and the serial monitor."<br>
+
+ 
 <h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
 ->In this project, we presented a comprehensive framework that integrates state-of-the-art
 privacy-preserving techniques, addressing the critical privacy concern in healthcare data.<br>
