@@ -31,7 +31,7 @@ web services.<br>
 -> Collaborated with cross-functional teams to ensure seamless deployment and integration of
 software solutions.<br>
 -> Followed Agile (Scrum) methodology for project development. Involved in Sprint planning,
-estimation of tasks for User Stories, daily scrum meetings, and end of the sprint demos and<br>
+estimation of tasks for User Stories, daily scrum meetings, and end of the sprint demos and
 sprint retrospective.<br>
 -> Responsible for design and maintenance of the Git and GitHub repositories and the access
 control strategies for version controlling and collaboration<br><br>
@@ -44,7 +44,7 @@ requirements and evaluate features of the application Identify, analyze, and tro
 software issues, file detailed and easy to reproduce bug reports, monitor their status until
 satisfactory resolution.<br>
 -> Responsible for programming, unit testing, user acceptance testing and implementation in a
-project involving payments. Modifying and developing existing programs to fix bugs and<br>
+project involving payments. Modifying and developing existing programs to fix bugs and
 increase efficiency of the applications. Test plan and Test case preparation.<br>
 -> Participated in the bug review meetings, Update Test Plan as per business requirement
 and change in functionality of application.<br>
