@@ -21,21 +21,38 @@ Bachelor of Technology | 2021<br><br>
 <h3>Programmer Analyst</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
 
--> Developed and maintained scalable microservices architectures using Spring Boot and Spring frameworks to ensure robust application performance.<br>
-->Integrated secure RESTful APIs with Spring Security for seamless authentication and authorization, enhancing data security across applications.<br>
-->Optimized databases (MySQL, PostgreSQL) using Spring Data JPA and Hibernate to manage large datasets efficiently and boost query performance.<br>
-->Utilized Spring Boot for high-performance application development, enhancing system reliability and scalability.<br>
-->Streamlined processes for software delivery by automating workflows and reducing deployment time, ensuring efficient and smooth project handoffs.<br><br>
+->Designed and implemented scalable backend systems using Spring Boot.<br>
+ Developed and optimized microservices architectures, integrated RESTful APIs, and
+implemented Spring Security for authentication and authorization.<br>
+-> Leveraged Hibernate and Spring Data JPA to manage large datasets efficiently, reducing<br>
+query execution time.<br>
+-> Used Spring Annotations to simplify the business logic for creating Spring MVC RESTful<br>
+web services.<br>
+-> Collaborated with cross-functional teams to ensure seamless deployment and integration of<br>
+software solutions.<br>
+-> Followed Agile (Scrum) methodology for project development. Involved in Sprint planning,<br>
+estimation of tasks for User Stories, daily scrum meetings, and end of the sprint demos and<br>
+sprint retrospective.<br>
+-> Responsible for design and maintenance of the Git and GitHub repositories and the access<br>
+control strategies for version controlling and collaboration<br><br>
 
 <h2>Internship</h2><br>
 <h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
 
- Responsible for programming, unit testing, user acceptance testing and implementation in a project involving payments. Modifying and developing existing programs to fix bugs and
- increase efficiency of the applications. Test plan and Test case preparation.<br>
-• Efficient in learning new technologies and adapting to new methodologies.<br>
-• Experience on various Methodologies and Agile-scrum and being part of agile team and worked under strict timelines for faster feedback.<br>
-• Experience in writing Test Plans, defining Test Cases, developing and maintaining Test scripts, analyzing the results of scripts, interaction with developers in fixing the errors.<br>
-• Expertise on identifying GUI objects using XPath.<br><br>
+-> Study business requirements and technical specifications to understand product<br>
+requirements and evaluate features of the application Identify, analyze, and troubleshoot<br>
+software issues, file detailed and easy to reproduce bug reports, monitor their status until<br>
+satisfactory resolution.<br>
+-> Responsible for programming, unit testing, user acceptance testing and implementation in a<br>
+project involving payments. Modifying and developing existing programs to fix bugs and<br>
+increase efficiency of the applications. Test plan and Test case preparation.<br>
+-> Participated in the bug review meetings, Update Test Plan as per business requirement<br>
+and change in functionality of application.<br>
+-> Experience on various Methodologies and Agile-ssscrum and being part of agile team<br>
+andworked under strict timelines for faster feedback.<br>
+->  Designed and developed Unit test cases for checking functionality of the code.<br>
+-> Experience in writing Test Plans, defining Test Cases, developing and maintaining Test<br>
+scripts, analyzing the results ofscripts, interaction with developers in fixing the errors<br><br>
 
 <h2>Projects</h2><br>
 <h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
