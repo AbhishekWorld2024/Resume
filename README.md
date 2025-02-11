@@ -21,37 +21,37 @@ Bachelor of Technology | 2021<br><br>
 <h3>Programmer Analyst</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
 
-->Designed and implemented scalable backend systems using Spring Boot.<br>
+->Designed and implemented scalable backend systems using Spring Boot.
  Developed and optimized microservices architectures, integrated RESTful APIs, and
 implemented Spring Security for authentication and authorization.<br>
--> Leveraged Hibernate and Spring Data JPA to manage large datasets efficiently, reducing<br>
+-> Leveraged Hibernate and Spring Data JPA to manage large datasets efficiently, reducing
 query execution time.<br>
--> Used Spring Annotations to simplify the business logic for creating Spring MVC RESTful<br>
+-> Used Spring Annotations to simplify the business logic for creating Spring MVC RESTful
 web services.<br>
--> Collaborated with cross-functional teams to ensure seamless deployment and integration of<br>
+-> Collaborated with cross-functional teams to ensure seamless deployment and integration of
 software solutions.<br>
--> Followed Agile (Scrum) methodology for project development. Involved in Sprint planning,<br>
+-> Followed Agile (Scrum) methodology for project development. Involved in Sprint planning,
 estimation of tasks for User Stories, daily scrum meetings, and end of the sprint demos and<br>
 sprint retrospective.<br>
--> Responsible for design and maintenance of the Git and GitHub repositories and the access<br>
+-> Responsible for design and maintenance of the Git and GitHub repositories and the access
 control strategies for version controlling and collaboration<br><br>
 
 <h2>Internship</h2><br>
 <h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
 
--> Study business requirements and technical specifications to understand product<br>
+-> Study business requirements and technical specifications to understand product
 requirements and evaluate features of the application Identify, analyze, and troubleshoot<br>
-software issues, file detailed and easy to reproduce bug reports, monitor their status until<br>
+software issues, file detailed and easy to reproduce bug reports, monitor their status until
 satisfactory resolution.<br>
--> Responsible for programming, unit testing, user acceptance testing and implementation in a<br>
+-> Responsible for programming, unit testing, user acceptance testing and implementation in a
 project involving payments. Modifying and developing existing programs to fix bugs and<br>
 increase efficiency of the applications. Test plan and Test case preparation.<br>
--> Participated in the bug review meetings, Update Test Plan as per business requirement<br>
+-> Participated in the bug review meetings, Update Test Plan as per business requirement
 and change in functionality of application.<br>
--> Experience on various Methodologies and Agile-ssscrum and being part of agile team<br>
+-> Experience on various Methodologies and Agile-ssscrum and being part of agile team
 andworked under strict timelines for faster feedback.<br>
 ->  Designed and developed Unit test cases for checking functionality of the code.<br>
--> Experience in writing Test Plans, defining Test Cases, developing and maintaining Test<br>
+-> Experience in writing Test Plans, defining Test Cases, developing and maintaining Test
 scripts, analyzing the results ofscripts, interaction with developers in fixing the errors<br><br>
 
 <h2>Projects</h2><br>
