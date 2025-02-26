@@ -9,8 +9,7 @@ I am continuously seeking to enhance my skills and stay updated with industry tr
 <h2>EDUCATION</h2><br>
 University at Kansas, Lawrence, Kansas<br>
 Master’s degree | 2023- 2025<br>
-Sathyabama University, Chennai, India<br>
-Bachelor of Technology | 2021<br><br>
+
 
 <h2>TECHNICAL SKILLS</h2><br>
 **Programming/Scripting Languages:** Java, C ,Javascript.<br>
