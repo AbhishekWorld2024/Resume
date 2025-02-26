@@ -19,59 +19,41 @@ Master’s degree | 2023- 2025<br>
 <h2>Work Experience</h2>
 <h3>Programmer Analyst</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
+-> Designed and implemented scalable backend systems using Spring Boot, ensuring high availability for payment processing applications.<br>
+-> Developed and optimized microservices architecture for seamless integration of CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments.<br>
+-> Implemented Spring Security for authentication and authorization in banking transactions, ensuring compliance with financial regulations.<br>
+-> Utilized Hibernate and Spring Data JPA to manage large transaction datasets, reducing query execution time and improving performance.<br>
+-> Integrated RESTful APIs with third-party payment gateways and internal banking systems to support international payment processing.<br>
+-> Ensured smooth deployment and integration of software solutions by collaborating with cross-functional teams, including payment operations and compliance teams.<br>
+-> Followed Agile (Scrum) methodology, actively participating in sprint planning, estimation, daily stand-ups, sprint demos, and retrospectives.<br>
+-> Managed and maintained Git and GitHub repositories, implementing access control strategies for secure versioning and collaboration.<br><br>
 
-->Designed and implemented scalable backend systems using Spring Boot.
- Developed and optimized microservices architectures, integrated RESTful APIs, and
-implemented Spring Security for authentication and authorization.<br>
--> Leveraged Hibernate and Spring Data JPA to manage large datasets efficiently, reducing
-query execution time.<br>
--> Used Spring Annotations to simplify the business logic for creating Spring MVC RESTful
-web services.<br>
--> Collaborated with cross-functional teams to ensure seamless deployment and integration of
-software solutions.<br>
--> Followed Agile (Scrum) methodology for project development. Involved in Sprint planning,
-estimation of tasks for User Stories, daily scrum meetings, and end of the sprint demos and
-sprint retrospective.<br>
--> Responsible for design and maintenance of the Git and GitHub repositories and the access
-control strategies for version controlling and collaboration<br><br>
 
 <h2>Internship</h2><br>
 <h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
+-> Analyzed and understood business requirements from Mapping Specification documents provided by Business Analysts (BAs) for payment processing and banking applications.<br>
+-> Developed functional maps in IBM WTX/ITX and integrated them with Spring Boot services, reducing mapping complexity and improving data transformation efficiency.<br>
+-> Implemented Hibernate and Spring Data JPA for database interaction, optimizing queries for large datasets related to banking transactions and financial records.<br>
+-> Created and optimized JPA repositories and custom queries to support complex payment workflows such as CBPR+, ISO 20022, SWIFT, and SEPA payments.<br>
+-> Actively participated in Agile development, attending sprint planning, daily stand-ups, sprint demos, and retrospectives to ensure smooth project execution.<br><br>
 
--> Study business requirements and technical specifications to understand product
-requirements and evaluate features of the application Identify, analyze, and troubleshoot<br>
-software issues, file detailed and easy to reproduce bug reports, monitor their status until
-satisfactory resolution.<br>
--> Responsible for programming, unit testing, user acceptance testing and implementation in a
-project involving payments. Modifying and developing existing programs to fix bugs and
-increase efficiency of the applications. Test plan and Test case preparation.<br>
--> Participated in the bug review meetings, Update Test Plan as per business requirement
-and change in functionality of application.<br>
--> Experience on various Methodologies and Agile-ssscrum and being part of agile team
-andworked under strict timelines for faster feedback.<br>
-->  Designed and developed Unit test cases for checking functionality of the code.<br>
--> Experience in writing Test Plans, defining Test Cases, developing and maintaining Test
-scripts, analyzing the results ofscripts, interaction with developers in fixing the errors<br><br>
 
-<h2>Projects</h2><br>
-<h3>Real-time object detection using the ESP32-S3 microcontroller</h3><br>
- Our project focuses on real-time object detection using the ESP32-S3 microcontroller
- The goal was to create a lightweight and efficient system that could detect objects within the
- ESP32-S3's resource constraints.<br>
-->Implementation<br>
-->Dataset and Training:<br>
-"We used a dataset of approximately 2.2k images and labels, splitting it into training, testing, and validation subsets. The YOLOv5n model was trained with parameters like a 320x320 image size, 
- 50 epochs, and a batch size of 16, achieving precise results."<br>
-->Optimization:<br>
-"We pruned 20% of the model weights to reduce size and fine-tuned it for optimal performance. 
- The optimized model was converted to TensorFlow Lite format and further quantized to uint8 format to improve compatibility with the ESP32-S3."<br>
--> Deployment:<br>
-"The uint8 TFLite model was integrated into the ESP32-S3. We wrote source files for camera setup, inference handling, and bounding box visualization. The system streamed live detection
- results via Wi-Fi, with bounding box coordinates visible on a hosted 
- web page and the serial monitor."<br>
+<h2>Projects</h2>
+<h3>Real-time object detection using the ESP32-S3 microcontroller</h3>
+<p>Our project focuses on real-time object detection using the ESP32-S3 microcontroller. The goal was to create a lightweight and efficient system that could detect objects within the ESP32-S3's resource constraints.</p>
 
- 
-<h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
+<h4>Implementation</h4>
+<h4>Dataset and Training:</h4>
+<p>We used a dataset of approximately 2.2k images and labels, splitting it into training, testing, and validation subsets. The YOLOv5n model was trained with parameters like a 320x320 image size, 50 epochs, and a batch size of 16, achieving precise results.</p>
+
+<h4>Optimization:</h4>
+<p>We pruned 20% of the model weights to reduce size and fine-tuned it for optimal performance. The optimized model was converted to TensorFlow Lite format and further quantized to uint8 format to improve compatibility with the ESP32-S3.</p>
+
+<h4>Deployment:</h4>
+<p>The uint8 TFLite model was integrated into the ESP32-S3. We wrote source files for camera setup, inference handling, and bounding box visualization. The system streamed live detection results via Wi-Fi, with bounding box coordinates visible on a hosted web page and the serial monitor.</p>
+
+
+ <h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
 ->In this project, we presented a comprehensive framework that integrates state-of-the-art
 privacy-preserving techniques, addressing the critical privacy concern in healthcare data.<br>
 ->The main goal of our project is to strengthen the confidentiality of individual records by
@@ -88,3 +70,4 @@ preserve, the project presents the idea of a privacy budget (ε) as a parameter.
 -> This comprehensive method yields a refined healthcare dataset, establishing the groundwork for
 responsible data handling and adding to the ongoing conversation about privacy in the
 healthcare industry.<br>
+
