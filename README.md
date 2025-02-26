@@ -9,6 +9,7 @@ In my internship as a Programmer Analyst Trainee , I integrated the maps with Sp
 <h2>EDUCATION</h2><br>
 University at Kansas, Lawrence, Kansas<br>
 Master’s degree | 2023- 2025<br>
+Computer Science <br>
 
 
 <h2>TECHNICAL SKILLS</h2><br>
