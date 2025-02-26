@@ -40,7 +40,7 @@ Computer Science <br>
 
 
 <h2>Projects</h2>
-<h3>Real-time object detection using the ESP32-S3 microcontroller</h3>
+<h2>Real-time object detection using the ESP32-S3 microcontroller</h2>
 <p>Our project focuses on real-time object detection using the ESP32-S3 microcontroller. The goal was to create a lightweight and efficient system that could detect objects within the ESP32-S3's resource constraints.</p>
 
 <h4>Implementation</h4>
@@ -54,7 +54,7 @@ Computer Science <br>
 <p>The uint8 TFLite model was integrated into the ESP32-S3. We wrote source files for camera setup, inference handling, and bounding box visualization. The system streamed live detection results via Wi-Fi, with bounding box coordinates visible on a hosted web page and the serial monitor.</p>
 
 
- <h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
+ <h2>DIFFERENTIAL PRIVACY ON HEALTHCARE</h2><br>
 ->In this project, we presented a comprehensive framework that integrates state-of-the-art
 privacy-preserving techniques, addressing the critical privacy concern in healthcare data.<br>
 ->The main goal of our project is to strengthen the confidentiality of individual records by
