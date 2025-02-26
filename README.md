@@ -1,10 +1,10 @@
 # Resume
 <h2>SUMMARY</h2>
-Pursuing a Master’s in Computer Science at the University of Kansas, I am passionate about leveraging data insights and technology to solve real-world challenges.<br>
+I am currently pursuing a Master's in Computer Science at the University of Kansas, with a strong passion for leveraging data insights and technology to solve real-world challenges.
 
-I bring hands-on experience from Cognizant Technology Solutions, where I worked as a Programmer Analyst specializing in automation testing, backend optimization, and microservices development. My expertise includes designing scalable backend systems with Spring Boot, optimizing database interactions using Hibernate, and integrating RESTful APIs for seamless communication. My internship as a QA Engineer focused on enhancing application efficiency and user testing in payment systems. Additionally, my recent projects include a healthcare data privacy framework and a Boolean Satisfiability Solver using the DPLL algorithm.<br>
+I bring valuable hands-on experience from Cognizant Technology Solutions, where I worked as a Programmer Analyst. In this role, I designed and implemented scalable backend systems using Spring Boot for payment processing applications, ensuring high availability and seamless integration with various payment systems such as CBPR+, ISO 20022, SWIFT, and SEPA. I utilized Spring Security for authentication and authorization, ensuring compliance with financial regulations. Additionally, I utilized Hibernate and Spring Data JPA to manage large transaction datasets, improving query performance and reducing execution times.
 
-I am continuously seeking to enhance my skills and stay updated with industry trends to bring fresh perspectives to every project.<br><br>
+In my internship as a Programmer Analyst Trainee , I integrated the maps with Spring Boot services to improve data transformation efficiency, optimizing JPA queries to support complex payment workflows.<br><br>
 
 <h2>EDUCATION</h2><br>
 University at Kansas, Lawrence, Kansas<br>
