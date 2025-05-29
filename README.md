@@ -18,7 +18,7 @@ Computer Science <br>
 **Skills and Tools:** SpringBoot ,Spring Framework ,Spring Security ,Hibernate/JPA ,GIT ,Git&Github ,Spring Cloud ,Maven ,RestAPI ,MySQL ,PostgreSQL , AzureDevOps , Amazon Web Services, Docker, Kubernetes. <br><br>
 
 <h2>Work Experience</h2>
-<h3>Programmer Analyst</h3>
+<h3>Software Engineer</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
 -> Designed and implemented scalable backend systems using Spring Boot, ensuring high availability for payment processing applications.<br>
 -> Developed and optimized microservices architecture for seamless integration of CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments.<br>
@@ -31,6 +31,7 @@ Computer Science <br>
 
 
 <h2>Internship</h2><br>
+<h3>Software Engineer Trainee</h3>
 <h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
 -> Analyzed and understood business requirements from Mapping Specification documents provided by Business Analysts (BAs) for payment processing and banking applications.<br>
 -> Developed functional maps in IBM WTX/ITX and integrated them with Spring Boot services, reducing mapping complexity and improving data transformation efficiency.<br>
